@@ -24,5 +24,17 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
+
+
+*dragonfly*
+
+**dragonfly**
+
+
+* dragonfly
+
+> dragonfly
+
 
