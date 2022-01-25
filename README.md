@@ -37,4 +37,10 @@ Syntax highlighted code block
 
 > dragonfly
 
+# dragonfly
+
+& dragonfly
+
+`dragonfly`
+
 
