@@ -7,5 +7,6 @@ Avid learner and an aspiring developer.
 
 1. [What is a MarkDown](https://bkhanal4351.github.io/reading-notes/markdown.md)
 
-2. [Git commands CheatSheet](https://bkhanal4351.github.io/reading-notes/cheatsheet.md)
+2. [Git commands CheatSheet](https://github.com/bkhanal4351/reading-notes/blob/main/git.md)
 3. [Linux commands cheatsheet](https://bkhanal4351.github.io/reading-notes/linux.md)
+
