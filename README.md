@@ -10,3 +10,5 @@ Avid learner and an aspiring developer.
 2. [Git commands CheatSheet](https://github.com/bkhanal4351/reading-notes/blob/main/git.md)
 3. [Linux commands cheatsheet](https://bkhanal4351.github.io/reading-notes/linux.md)
 
+4. [WireFrame and HTML Basics notes](https://github.com/bkhanal4351/reading-notes/blob/main/html.md)
+
