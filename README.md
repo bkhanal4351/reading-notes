@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page
 
-Avid learner and an aspiring developer, and currently a robot being controlled by instructions from Christopher.
+Avid learner and an aspiring developer.
 
 
 **TABLE OF CONTENTS**
