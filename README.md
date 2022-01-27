@@ -12,3 +12,5 @@ Avid learner and an aspiring developer.
 
 4. [WireFrame and HTML Basics notes](https://github.com/bkhanal4351/reading-notes/blob/main/html.md)
 
+5. [CSS Basics](https://github.com/bkhanal4351/reading-notes/blob/main/css.md)
+
