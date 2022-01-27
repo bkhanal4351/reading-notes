@@ -14,3 +14,5 @@ Avid learner and an aspiring developer.
 
 5. [CSS Basics](https://github.com/bkhanal4351/reading-notes/blob/main/css.md)
 
+6. [JavaScript Notes](https://github.com/bkhanal4351/reading-notes/blob/main/js.md)
+
