@@ -16,3 +16,5 @@ Avid learner and an aspiring developer.
 
 6. [JavaScript Notes](https://github.com/bkhanal4351/reading-notes/blob/main/js.md)
 
+7. [Functions and Operators](https://github.com/bkhanal4351/reading-notes/blob/main/functionsANDoperators.md)
+
