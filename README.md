@@ -18,3 +18,4 @@ Avid learner and an aspiring developer.
 
 7. [Functions and Operators](https://github.com/bkhanal4351/reading-notes/blob/main/functionsANDoperators.md)
 
+8. [Operators and Loops](https://github.com/bkhanal4351/reading-notes/blob/main/expressions.md)
