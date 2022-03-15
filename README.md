@@ -1,7 +1,9 @@
 ## Welcome to my GitHub Page
 
-Avid learner and an aspiring developer.
+## Reading Notes
 
+
+## 102 Notes
 
 **TABLE OF CONTENTS**
 
@@ -19,3 +21,5 @@ Avid learner and an aspiring developer.
 7. [Functions and Operators](https://github.com/bkhanal4351/reading-notes/blob/main/functionsANDoperators.md)
 
 8. [Operators and Loops](https://github.com/bkhanal4351/reading-notes/blob/main/expressions.md)
+
+
