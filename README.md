@@ -53,4 +53,4 @@
 
 # Code301-reading-notes
 
-1. [Class 13](https://github.com/bkhanal4351/reading-notes/blob/main/class01.md)
+1. [Class 1](https://github.com/bkhanal4351/reading-notes/blob/main/class01.md)
