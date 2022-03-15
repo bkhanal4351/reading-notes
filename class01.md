@@ -36,3 +36,6 @@
 ## Things I want to know more about
 
 How does using components/react help reduce effort/time  vs doing vanilla javascript or DOM manipulation. 
+
+Notes taken from : (https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+(https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
