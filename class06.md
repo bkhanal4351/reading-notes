@@ -37,3 +37,6 @@
 
 . How does pair programming work?
 - In pair programming, there is a driver and a navigator.Driver is the one that types the code and navigator who is giving instructions on what to type.
+
+notes taken from (https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+(https://www.sitepoint.com/an-introduction-to-node-js/)
