@@ -1,7 +1,7 @@
 # How I explained REST to my brother
 
 . Who is Roy Fielding?
-- A computer scientist and a principal author of HTTP specification.
+- A computer scientist and a principal author of HTTP protocol.
 
 . Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 - they weren't designed to be used like that. When Fielding and his colleagues started building the web, being able to talk to any machine anywhere in the world was a primary concern. But most of the techniques developers later used to get computers to talk to each other didn't have those requirements. You just needed to talk to a small group of machines.
@@ -20,6 +20,9 @@
 
 . What does PATCH do?
 - PATCH is used to replace something completely.
+
+notes taken from (https://gist.github.com/brookr/5977550)
+
 
 
 
