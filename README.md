@@ -64,3 +64,5 @@
 5. [Class 5](https://github.com/bkhanal4351/reading-notes/blob/main/class05.md)
 
 6. [Class 6](https://github.com/bkhanal4351/reading-notes/blob/main/class06.md)
+
+7. [Class 7](https://github.com/bkhanal4351/reading-notes/blob/main/class07.md)
