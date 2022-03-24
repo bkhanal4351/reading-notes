@@ -68,3 +68,5 @@
 7. [Class 7](https://github.com/bkhanal4351/reading-notes/blob/main/class07.md)
 
 8. [Class 8](https://github.com/bkhanal4351/reading-notes/blob/main/class08.md)
+
+9. [Class 9](https://github.com/bkhanal4351/reading-notes/blob/main/class09.md)
