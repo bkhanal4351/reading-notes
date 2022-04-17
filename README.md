@@ -83,4 +83,4 @@
 
 # Code401-reading-notes
 
-1. [Practice in the Terminal] ()
+1. [Practice in the Terminal](https://github.com/bkhanal4351/reading-notes/blob/main/practice_in_terminal.md)
