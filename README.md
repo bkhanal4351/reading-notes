@@ -85,4 +85,4 @@
 
 1. [Practice in the Terminal](https://github.com/bkhanal4351/reading-notes/blob/main/practice_in_terminal.md)
 
-2. [Introduction to SQL]()
+2. [Introduction to SQL](https://github.com/bkhanal4351/reading-notes/blob/main/introduction_to_sql.md)
