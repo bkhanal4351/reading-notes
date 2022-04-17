@@ -83,3 +83,4 @@
 
 # Code401-reading-notes
 
+1. [Practice in the Terminal] ()
