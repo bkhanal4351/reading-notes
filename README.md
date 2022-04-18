@@ -86,3 +86,5 @@
 1. [Practice in the Terminal](https://github.com/bkhanal4351/reading-notes/blob/main/practice_in_terminal.md)
 
 2. [Introduction to SQL](https://github.com/bkhanal4351/reading-notes/blob/main/introduction_to_sql.md)
+
+3. [Class 1](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class01.md)
