@@ -88,3 +88,7 @@
 2. [Introduction to SQL](https://github.com/bkhanal4351/reading-notes/blob/main/introduction_to_sql.md)
 
 3. [Class 1](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class01.md)
+
+4. [class 2](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class02.md)
+
+5. [class 3](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class03.md)
