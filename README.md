@@ -89,6 +89,8 @@
 
 3. [Class 1](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class01.md)
 
-4. [class 2](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class02.md)
+4. [Class 2](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class02.md)
 
-5. [class 3](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class03.md)
+5. [Class 3](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class03.md)
+
+6. [Class 4](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class04.md)
