@@ -38,8 +38,8 @@ random.shuffle(list) Example taken from this post on Stackoverflow
 x = [[i] for i in range(10)]
 shuffle(x)`
 Output:
-# print x  gives  [[9], [2], [7], [0], [4], [5], [3], [1], [8], [6]]
-# of course your results will vary
+ print x  gives  [[9], [2], [7], [0], [4], [5], [3], [1], [8], [6]]
+ of course your results will vary
 Randrange
 Generate a randomly selected element from range(start, stop, step)
 
