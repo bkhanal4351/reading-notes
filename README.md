@@ -94,3 +94,7 @@
 5. [Class 3](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class03.md)
 
 6. [Class 4](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class04.md)
+
+7. [Class 5](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class05.md)
+
+7. [Class 6](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class06.md)
