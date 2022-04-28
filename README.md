@@ -102,3 +102,5 @@
 9. [Class 7](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class07.md)
 
 10. [Class 8](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class08.md)
+
+11. [Class 9](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class09.md)
