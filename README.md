@@ -104,3 +104,5 @@
 10. [Class 8](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class08.md)
 
 11. [Class 9](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class09.md)
+
+12. [Class 10](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class10.md)
