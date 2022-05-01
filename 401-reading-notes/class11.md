@@ -1,6 +1,6 @@
 # What is Jupyter Lab
 JupyterLab enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner. For a demonstration of JupyterLab and its features, you can view this video:
-![](https://youtu.be/A5YyoCKxEOU)
+[video](https://youtu.be/A5YyoCKxEOU)
 
 You can arrange multiple documents and activities side by side in the work area using tabs and splitters. Documents and activities integrate with each other, enabling new workflows for interactive computing, for example:
 
