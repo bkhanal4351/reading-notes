@@ -112,3 +112,6 @@
 14. [Class 12](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class12.md)
 
 15. [Class 13](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class13.md)
+
+16. [Class 14](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class14.md)
+
