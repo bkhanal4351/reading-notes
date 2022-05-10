@@ -119,3 +119,5 @@
 
 18. [Class 16](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class16.md)
 
+19. [Class 17](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class17.md)
+
