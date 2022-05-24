@@ -125,5 +125,7 @@
 
 21. [Class 19](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class19.md)
 
-22. [Class 19](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class26.md)
+22. [Class 20](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class26.md)
+
+23. [Class 21](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class27.md)
 
