@@ -137,3 +137,5 @@
 
 27. [Class 25](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class31.md)
 
+28. [Class 26](https://github.com/bkhanal4351/reading-notes/blob/main/401-reading-notes/class32.md)
+
